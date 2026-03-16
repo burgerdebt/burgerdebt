@@ -1,6 +1,6 @@
 <img 
 src="https://files.catbox.moe/p6co6p.png"
-width="660" />
+width="660](https://files.catbox.moe/xxqlko.png)" />
 
 <img src="https://files.catbox.moe/ezn6ra.png" alt="Description" align="left" width="150" style="margin-right: 15px;" />
 
